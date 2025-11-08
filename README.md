@@ -1,4 +1,4 @@
-# P8 Pro Drone Controller V4
+# PELICANSOFT WIFI drone controlling station
 
 A comprehensive Python application for controlling P8 Pro drones via WiFi connection.
 
@@ -59,5 +59,6 @@ Edit `config/drone_config.yaml` to customize:
 For issues and questions, please refer to the documentation in the `docs/` folder.
 
 ## License
+
 
 This software is provided as-is for educational and personal use.
