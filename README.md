@@ -1,10 +1,10 @@
-# PELICANSOFT WIFI drone controlling station
+# PELICANSOFT WiFi drone controlling station
 
-A comprehensive Python application for controlling P8 Pro drones via WiFi connection.
+A comprehensive Python application for controlling RC drones via WiFi connection.
 
 ## Features
 
-- **WiFi Communication**: Connect to P8 Pro drone through WiFi network
+- **WiFi Communication**: Connect to the drone through WiFi network
 - **Flight Control**: Complete flight control including takeoff, landing, movement, and rotation
 - **Real-time Telemetry**: Monitor drone status, battery, altitude, and GPS coordinates
 - **Safety Features**: Emergency stop, connection monitoring, and automatic failsafe
@@ -14,7 +14,7 @@ A comprehensive Python application for controlling P8 Pro drones via WiFi connec
 ## Requirements
 
 - Python 3.8 or higher
-- P8 Pro drone with WiFi capability
+- a RC drone with WiFi capability
 - Windows/Linux/macOS computer with WiFi
 
 ## Installation
@@ -32,7 +32,7 @@ A comprehensive Python application for controlling P8 Pro drones via WiFi connec
 
 ## Quick Start
 
-1. Power on your P8 Pro drone
+1. Power on your drone
 2. Connect your computer to the drone's WiFi network
 3. Launch the application
 4. Click "Connect" to establish communication
@@ -61,4 +61,5 @@ For issues and questions, please refer to the documentation in the `docs/` folde
 ## License
 
 
-This software is provided as-is for educational and personal use.
+This software is provided as-is for educational and personal use and it is still a prototype version. 
+
